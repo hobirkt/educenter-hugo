@@ -6,10 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Blog
-- type: document
-  path: exampleSite/content/english/blog/**/*
-  label: Post (en)
-  match: "**/*"
 - type: directory
   path: exampleSite/content/french/blog
   label: Post (fr)
@@ -17,6 +13,9 @@ sections:
   match: "**/*"
   templates:
   - post
+- type: document
+  path: exampleSite/content/english/blog/**/*
+  label: Post (en)
 - type: heading
   label: Author
 - type: directory
