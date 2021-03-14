@@ -8,11 +8,11 @@ themesDir = "../.."
 title = "Educenter | hugo education template"
 [Languages.en]
 contentDir = ""
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-home = "Home"
-languageCode = "en-us"
-languageName = "En"
-weight = 1
+copyright = ""
+home = ""
+languageCode = ""
+languageName = ""
+weight = ""
 [Languages.en.menu]
 footer = []
 main = []
