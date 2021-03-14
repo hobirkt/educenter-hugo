@@ -12,7 +12,7 @@ copyright = ""
 home = ""
 languageCode = ""
 languageName = ""
-weight = ""
+weight = "2"
 [Languages.en.menu]
 footer = []
 main = []
