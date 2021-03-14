@@ -13,9 +13,6 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: document
-  path: exampleSite/content/english/blog/**/*
-  label: Post (en)
 - type: heading
   label: Author
 - type: directory
