@@ -1,5 +1,5 @@
 baseURL = "http://benexthackademy.org"
-disableLanguages = []
+disableLanguages = ["En"]
 disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
