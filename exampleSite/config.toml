@@ -1,5 +1,5 @@
 baseURL = "http://benexthackademy.org"
-disableLanguages = ["En"]
+disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
@@ -7,7 +7,7 @@ theme = "educenter-hugo"
 themesDir = "../.."
 title = "Educenter | hugo education template"
 [Languages.en]
-contentDir = "content/english"
+contentDir = ""
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
 home = "Home"
 languageCode = "en-us"
